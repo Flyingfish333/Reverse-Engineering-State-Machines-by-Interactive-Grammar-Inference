@@ -1,5 +1,5 @@
 # Reverse-Engineering-State-Machines-by-Interactive-Grammar-Inference
-## 毕设：绘制简化系统命令流程
+## 毕设：绘制简化系统命令流程(详情见final design slide的pdf文件)
 ### 环境PYQT5和graphviz
 #### 基础流程图
 #### <img width="692" alt="1" src="https://user-images.githubusercontent.com/92088433/216587302-9a8b257b-1068-4b43-88d8-99985d6f6140.png">
